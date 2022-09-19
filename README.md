@@ -9,7 +9,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
- I'm a Developer living in Fortaleza, Brazil. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I also love gaming, coffee, sports and pop culture in general🎮🔭⚔. <br/><br/>
+ I'm a Developer living in Fortaleza, Brazil. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I also love gaming, cats, coffee, sports and pop culture in general🎮🔭⚔. <br/><br/>
 
 
 
