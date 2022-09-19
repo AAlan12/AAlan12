@@ -42,7 +42,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="250" align="right">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="300" align="right">
   </div>
 </div>
 <div>
@@ -52,6 +52,14 @@
  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <br><br> 
 I'm a Tech Enthusiast! Passionate about learning and working with new tech, always looking to contribute in the best way possible to my team
 </p>
+<div align="center">
+  <a href="https://github.com/AAlan12">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AAlan12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAlan12&layout=compact&langs_count=7&theme=midnight-purple" />
+</div>
+ 
+  ![Snake animation](https://github.com/AAlan12/AAlan12/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
