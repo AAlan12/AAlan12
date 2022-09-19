@@ -54,8 +54,8 @@ I'm a Tech Enthusiast! Passionate about learning and working with new tech, alwa
 </p>
 <div align="center">
   <a href="https://github.com/AAlan12">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AAlan12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAlan12&layout=compact&langs_count=7&theme=midnight-purple" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AAlan12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAlan12&layout=compact&langs_count=7&theme=midnight-purple" />
 </div>
  
   ![Snake animation](https://github.com/AAlan12/AAlan12/blob/output/github-contribution-grid-snake.svg)
