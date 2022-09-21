@@ -60,7 +60,7 @@ I'm a Tech Enthusiast! Passionate about learning and working with new tech, alwa
  
   ![Snake animation](https://github.com/AAlan12/AAlan12/blob/output/github-contribution-grid-snake.svg)
 
-<br>
+<br><br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
 <img src="https://media.giphy.com/media/pTLvJoixKoGzFiGgCB/giphy.gif" align="right" width="373.5px" height="208.5px">
