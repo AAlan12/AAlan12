@@ -35,6 +35,9 @@
  <li>
 <b>I’m currently learning:</b> React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/>
 </li>
+<li>
+<b>Check out my <a href="https://github.com/AAlan12/AAlan12/blob/main/Resume%20-%20Antonio%20Alan%20.pdf">Resume</a></b>
+</li>
 <br><br><br>
 </div>
 <div>
