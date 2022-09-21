@@ -16,7 +16,7 @@
 <div>
 <h2 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮.  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"width="50"> </h2>
   <div align="center">
-<img src="https://media.giphy.com/media/UvQ2W4OYg3EKahV5Xe/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" align="right">
   </div>
 <li>
  <b>Name:</b> <a href='https://www.linkedin.com/in/antonioalan/' target=_blank>Antonio Alan de Sousa Cardoso</a></li>
@@ -54,8 +54,8 @@ I'm a Tech Enthusiast! Passionate about learning and working with new tech, alwa
 </p>
 <div align="center">
   <a href="https://github.com/AAlan12">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AAlan12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAlan12&layout=compact&langs_count=7&theme=midnight-purple" />
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=AAlan12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAlan12&layout=compact&langs_count=7&theme=midnight-purple" />
 </div>
  
   ![Snake animation](https://github.com/AAlan12/AAlan12/blob/output/github-contribution-grid-snake.svg)
