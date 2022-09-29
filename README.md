@@ -21,13 +21,7 @@
 <li>
  <b>Name:</b> <a href='https://www.linkedin.com/in/antonioalan/' target=_blank>Antonio Alan de Sousa Cardoso</a></li>
 <li>
-<b>Loves:</b> games, anime, coffee, cats, esports, fantasy, sci-fi
-</li>
-<li>
-<b>Gender:</b> he/him/Male
-</li>
-<li>
-<b>Hobbys:</b>  Web Development, write scripts, play games, read books 
+<b>Gender:</b> he/him
 </li>
 <li>
 <b>Working :</b> I am currently looking for new job opportunities
