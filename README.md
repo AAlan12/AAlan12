@@ -27,7 +27,8 @@
 <b>Working :</b> I am currently looking for new job opportunities
 </li>
  <li>
-<b>I’m currently learning:</b> React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/>
+<b>I’m currently learning:</b> React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> and Angular 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="20" height="20"/>
 </li>
 <li>
 <b>Check out my <a href="https://github.com/AAlan12/AAlan12/blob/main/Resume%20-%20Antonio%20Alan%20.pdf">Resume</a></b>
