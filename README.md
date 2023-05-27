@@ -30,7 +30,7 @@
 <b>I’m currently learning:</b> Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="20" height="20"/> and Flutter <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" height="20"/>
 </li>
 <li>
-<b>Check out my <a href="https://github.com/AAlan12/AAlan12/blob/main/CV%20-%20Antonio%20Alan.pdf">Resume</a></b>
+<b>Check out my <a href="https://aalan12.github.io/Portfolio-Antonio-Alan/">Portfolio</a></b>
 </li>
 <br><br><br>
 </div>
